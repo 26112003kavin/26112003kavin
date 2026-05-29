@@ -2,7 +2,7 @@
 
 ## KavinKumar V | Backend Engineer
 
-### `Java Developer` · `QA Automation` · `API Specialist`
+### `Java Developer` · `QA Automation` · `REST API Developer`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Building+robust+backend+systems;Crafting+clean%2C+testable+code;Automating+quality+at+every+layer)](https://git.io/typing-svg)
 
@@ -36,7 +36,7 @@ public class KavinKumar extends Developer {
     @Override
     public List<String> currentFocus() {
         return List.of(
-            "Backend APIs with Spring Boot",
+            "Designing & building REST APIs",
             "Database design & SQL optimization",
             "REST API integration & testing",
             "Automation test frameworks"
@@ -77,7 +77,6 @@ public class KavinKumar extends Developer {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=26112003kavin&color=00b4d8&style=flat-square" alt="Profile Views"/>
 
-  *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
-  
-  — Martin Fowler
+  *"First solve the problem, then write the code."*
+
 </div>
