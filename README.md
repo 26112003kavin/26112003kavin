@@ -51,6 +51,31 @@ public class KavinKumar extends Developer {
 ```
 
 ---
+---
+
+## 🚀 Projects
+
+### 🛒 E-Commerce Automation Testing
+> Automated end-to-end testing of an e-commerce web application covering user login, product search, cart management, and checkout flow.
+
+- **Tech:** Java · Selenium · TestNG · Maven
+- **Highlights:**
+  - Automated key user journeys (login, search, add to cart, checkout)
+  - Data-driven test cases using TestNG annotations
+  - Cross-browser test execution
+  - Structured test reports with TestNG reporting
+
+---
+
+### 💳 Online Payment Simulation
+> A Java-based simulation of an online payment system handling transactions, payment validation, and receipt generation.
+
+- **Tech:** Java · OOP · Collections · Exception Handling
+- **Highlights:**
+  - Simulates payment flow (initiate → validate → process → confirm)
+  - Handles multiple payment modes (card, UPI, wallet)
+  - Exception handling for failed/declined transactions
+  - Clean modular design with reusable components
 
 ## 📊 GitHub Stats
 
